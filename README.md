@@ -1,4 +1,4 @@
 # pankaj_first_demo
-this is the first class of git hub
+this is my first git repository
 <br>
 author is pankaj behera
